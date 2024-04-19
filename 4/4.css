@@ -1,0 +1,30 @@
+
+
+body {
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+    padding: 20px;
+}
+
+.box {
+    display: flex;
+}
+
+.box1{
+    height: 470px;
+    margin: 10px 10px 10px 10px;
+
+}
+
+.box3 {
+    height: 150px;
+    margin: 10px 10px 10px 10px;
+   
+
+}
+
+.box2{
+    height: 300px;
+    margin: 10px 10px 10px 10px;
+   
+}

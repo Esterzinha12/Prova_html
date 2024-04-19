@@ -1,0 +1,41 @@
+
+
+body {
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+    padding: 20px;
+}
+
+
+.margem{
+    border: 2px solid black;
+    padding: 10px;
+}
+.box {
+    display: flex;
+}
+
+.boxYellow{
+    background-color: yellow;
+    width: 1790px;
+    height: 100px;
+    margin: 2px 2px 10px 0px;
+    border: 2px solid black;
+}
+
+.boxRed {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    margin: 2px 10px 10px 0px;
+    border: 2px solid black;
+
+}
+
+.boxBlue {
+    background-color: blue;
+    width: 100%;
+    height: 100px;
+    margin: 2px 40px 10px 0px;
+    border: 2px solid black;
+}
